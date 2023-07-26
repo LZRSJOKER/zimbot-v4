@@ -37,17 +37,17 @@ global.APIKeys = {
 global.Api = new (require('./plugins/neoxrApi.js'))(process.env.API_KEY)
 
 //settings
-global.owner = ['+447441437150',''] //owner number ++447441437150
-global.wame = ['+447441437150'] 
-global.pemilik = ['+447441437150'] //owner number ++447441437150
-global.premium = ['+447441437150'] //premium number ++447441437150
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['+917561815867',''] //owner number ++447441437150
+global.wame = ['+917561815867'] 
+global.pemilik = ['+917561815867'] //owner number ++447441437150
+global.premium = ['+917561815867'] //premium number ++447441437150
+global.pengguna = '___𝙸𝚃𝚊𝙲𝙷𝙸__🪬' //username
+global.footer = '*𝐔𝐂𝚮𝚰𝚮𝚫 𝚰𝚻𝚫𝐂𝚮𝚰*'
+global.botnma = '𝘿𝞗𝙁𝙇𝞓𝞛𝞘𝞜𝙂𝞗' //bot name
+global.botname = '𝘿𝞗𝞜𝙌𝙐𝞘𝞦𝞗𝙏𝞢 𝘿𝞗𝙁𝙇𝞓𝞛𝞘𝞜𝙂𝞗'
+global.ownernma = '___𝙸𝚃𝚊𝙲𝙷𝙸__🪬' //owner name
+global.packname = '___𝙸𝚃𝚊𝙲𝙷𝙸__🪬' //sticker package name
+global.author = '☮️🕊️' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
@@ -59,7 +59,7 @@ global.dripsrecord = true
 global.available = false
 global.unavailable = false
 global.limittot = 100,
-global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
+global.thumb = fs.readFileSync('./Zimbot/godofgen.jpg')
 global.reactmoji = '🇿🇼'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
@@ -101,9 +101,9 @@ emeraldawal: 5,
 umpanawal: 5,
 potionawal: 1
 }
-global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.thumb = fs.readFileSync('./Zimbot/godofgen.jpg')
+global.visoka = { url: 'https://i.imgur.com/uOb8MDt.mp4' }
+global.vid = { url: 'https://i.imgur.com/GVYnedo.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
