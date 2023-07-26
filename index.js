@@ -64,7 +64,7 @@ say('ZIM-BOT\nV4', {
 Drips.hr();
 console.log(color(''), color('THANKS FOR CHOOSING ZIM BOT', 'green'))
 console.log(color(''), color('SCRIPT BY DRIPS', 'red'))
-console.log(color( ''), color('https://wa.me/+447441437150','cyan'))
+console.log(color( ''), color('https://wa.me/+917561815867','cyan'))
 Drips.hr();
 Drips.banner(`DRIPS ZIM BOT OWNER`)
 Drips.ok('WELCOME TO ZIMBOT')
@@ -207,7 +207,7 @@ mediaUrl:`https://youtu.be/KNu-gr2h7bo`,
 sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
 }}
 }
-const driphunny = fs.readFileSync('./Zimbot/welcome.mp3')
+const driphunny = fs.readFileSync('mess./Zimbot/.mp3')
 ZimBotInc.sendMessage(anu.id, { audio: driphunny, mimetype: 'audio/mp4', ptt: true})
 ZimBotInc.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
@@ -240,7 +240,7 @@ mediaUrl:`https://youtu.be/KNu-gr2h7bo`,
 sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
 }}
 }
-const dripbabe = fs.readFileSync('./Zimbot/leave.mp3')
+const dripbabe = fs.readFileSync('./Zimbot/lethim.mp3')
 ZimBotInc.sendMessage(anu.id, { audio: dripbabe, mimetype: 'audio/mp4', ptt: true})
 ZimBotInc.sendMessage(anu.id, buttonMessage)
     
